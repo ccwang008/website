@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip53">
+      <path d="M 25.5 34.5  L 25.5 18.5  C 25.5 16.835  26.835 15.5  28.5 15.5  L 42.5 15.5  C 44.165 15.5  45.5 16.835  45.5 18.5  L 45.5 34.5  L 25.5 34.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -25 -15 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="21" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAADr0lEQVR4Xu2d8XXTMBCHLxPACLBBNwA2oBMAE3CdAJggtwFhAsIEtBt0AzoCG8C7voSXOJalxvb58vj8T/ueFUv+fbo7SzrLK+FIpcAqVWtojAAkWScACECSKZCsOVgIQOoKqOqViLwTEf875XEvIj/M7HbKi055rXQWoqqvReTnlDfZc61rM9vOXMdZl88IZLOzjrNuqPFHbiVvG8uGFssIxN3Jq5lVuDMzt8R0B0CSIQEIQIYVUFVcVqZOApBMNEQEIABJpQBBPRUOyTf9jstK1kMAApBUChBDUuEghiTDARCA1BQgqNcUCj4PkGDBa9UBpKZQ8HmABAteqw4gNYWCzwMkWPBadQCpKRR8XlUjsk5IcmjlqqqenvO9tfyZ5T6YmYNPd6Sby3KFdlDei8jzimLddKG7BoU3WWF421MCaRD1sYiq/jksa2YXfT8AaSUfWO6iexQWEthTWqoCSItKgWUAEih2S1UAaVEpsAxAAsVuqQogLSoFlgFIoNgtVQGkRaXAMgAJFLulKoC0qBRYBiCBYrdUBZAWlQLLAKQgtqp+EhFfv3gRyCNDVb9FxBe6vpiZ/z/6GD3bq6omIh9Ht+SyL7A1s+spbmEKIEeLRFM06kKv8dLMHsa2fRSQoH1Jxt5j1O/fTLGpzdRAQrM5lgzqqvpZRDx27g+AAKRj/D0uCwsZ6SBxWWcKiMvqEQ6Xhcv6pwAWgoXUnStBncfeo15CDCGGEEOGHCcWgoVgIVhI/eHqsJd0d6Fm6uQJ+vUVZerkTAEXGRiqqi/L+hTz1Euzj0ufZnbTp8fulTbfjL/2Slt3d+rqJvur1WqzXq+/VVzh2l/QOpNV7Wf+QQDfe753MatoIarqEH7Vrj7y/I2Z+RLwoRtc9KXPoEW34t7zQ0C8h3hPmfM4iTlLvxbd44rmuP9irB0C0l0RC2nY0hsHAKTzlQKAFPr9Uj0FIADpTlgu4qr3jSCGnE4HAaTz2Lvo5yqWctVYSOGTRwDhKevIaRJDiCFHCvSN1IkhhQm+RZ42GIcwDmEccqAALqtjEAR1gjpBXUSYfu8YQlEQBoYMDBkYDrkMLAQLwUKwkPJqPOOQJ4xDItJxTtJhgrJOimk4u1y0r3NkdAwNiFvWQzxJzZO5ns3YuJN3u4PyojxRbVuYw4vIR/O9UXyu8OQYTCVVVYcyVwbfbWnnA1W9EhG30DmOYr37ymau/2HoYwCjcnvnUOt/vyZAkvUAgAAkmQLJmoOFACSZAsma8xcWaEWSeo4ZigAAAABJRU5ErkJggg==" x="25px" y="15px" mask="url(#clip53)" />
+    <path d="M 25.5 34.5  L 25.5 18  C 25.5 16.6125  26.6125 15.5  28 15.5  L 43 15.5  C 44.3875 15.5  45.5 16.6125  45.5 18  L 45.5 34.5  L 25.5 34.5  Z " stroke-width="1" stroke="#d7d7d7" fill="none" mask="url(#clip53)" />
+  </g>
+</svg>
